@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: 자유학교
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: 자유학교
+last_name: Johnson자유학교
 
 # Pronouns (optional)
 pronouns: he/him
