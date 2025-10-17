@@ -1,7 +1,6 @@
 ---
 title: "전주 자유개혁교회 (Free Reformed Church in Jeonju)"
-first_name: "자유개혁교회"
-last_name: "전주자유개혁교회"
+name: "전주 자유개혁교회"
 pronouns: "All Church Family"
 status:
   icon: "📖"
@@ -58,9 +57,9 @@ work:
 
 languages:
   - name: "한국어"
-    percent: 100
+    level: "Native"
   - name: "English"
-    percent: 40
+    level: "Intermediate"
 
 awards:
   - title: "창립"
@@ -111,4 +110,5 @@ menu:
     - name: "연락처"
       url: "/contact/"
       weight: 60
+---
 ---
