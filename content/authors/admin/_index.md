@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 자유학교
+title: Free Reformed Church in Korea (jeon ju)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: 자유학교
-last_name: 자유학교
+first_name: 자유개혁교회
+last_name: 자유교회
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: All Church Family
 
 # Status emoji
 status:
