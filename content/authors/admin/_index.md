@@ -122,4 +122,4 @@ awards:
 🚌 버스 노선: 인후초등학교 하차 (도보 1분)  
 🚗 주차: 교회 앞 공용 주차장 이용 가능  
 
-[🗺️ 구글 지도에서 보기](https://www.google.com/maps)
+[🗺️ 구글 지도에서 보기](https://maps.app.goo.gl/rCib24Gc2DBFnTy56)
