@@ -68,7 +68,7 @@ languages:
 
 awards:
   - title: 창림
-    date: "1996-00-00"
+    date: "1996-01-01"
     awarder: 전주 자유개혁교회
     icon: hero/church
     summary: |
