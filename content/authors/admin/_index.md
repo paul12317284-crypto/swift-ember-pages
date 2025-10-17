@@ -76,7 +76,7 @@ interests:
 주소: 전라북도 전주시 덕진구 인후동 동가재미3길 6-4  
 주차: 교회 앞 공용 주차장 이용 가능  
 
-[구글 지도에서 보기](<https://www.google.com/maps/place/%EC%9E%90%EC%9C%A0%EA%B0%9C%ED%98%81%EA%B5%90%ED%9A%8C/@35.8316883,127.1615202,17z>)
+[구글 지도에서 보기](<https://www.google.com/maps/place/%EC%9E%90%EC%9C%A0%EA%B0%9C%ED%98%81%EA%B5%90%ED%9A%8C/data=!3m1!4b1!4m6!3m5!1s0x3570237ce2bac0af:0xc0d43b2a9d13920b!8m2!3d35.8316883!4d127.1615202!16s%2Fg%2F11h3ctcqzj?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D>)
 
 ---
 
