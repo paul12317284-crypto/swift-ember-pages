@@ -21,9 +21,9 @@ profiles:
     url: "mailto:contact@frckorea.org"
     label: 이메일 문의
   - icon: brands/facebook
-    url: https://www.facebook.com/frckorea
+    url: https://www.facebook.com/irpcfree?locale=ko_KR
   - icon: brands/youtube
-    url: https://www.youtube.com/@frckorea
+    url: https://www.youtube.com/@FreeReformedChurch
 
 interests:
   - 말씀 중심의 예배와 신앙생활
