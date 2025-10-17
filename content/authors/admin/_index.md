@@ -142,9 +142,7 @@ awards:
 
 ---
 
-# 🧭 사이트 메뉴 설정 (`config/_default/menus.yaml`)
 
-```yaml
 main:
   - name: "홈"
     url: "/"
