@@ -90,24 +90,5 @@ tabs:
     name: "연락처"
     url: "#연락처"
 
-menu:
-  main:
-    - name: "홈"
-      url: "/"
-      weight: 10
-    - name: "교회소개"
-      url: "/about/"
-      weight: 20
-    - name: "예배안내"
-      url: "/worship/"
-      weight: 30
-    - name: "성찬 및 모임"
-      url: "/communion/"
-      weight: 40
-    - name: "오시는 길"
-      url: "/location/"
-      weight: 50
-    - name: "연락처"
-      url: "/contact/"
-      weight: 60
+
 ---
