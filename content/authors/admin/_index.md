@@ -3,13 +3,10 @@ title: "전주 자유개혁교회 (Free Reformed Church in Jeonju)"
 first_name: "자유개혁교회"
 last_name: "전주자유개혁교회"
 pronouns: "All Church Family"
-
 status:
   icon: "📖"
-
 superuser: true
 highlight_name: true
-
 role: "하나님을 예배하며 말씀 위에 세워지는 교회"
 
 organizations:
@@ -48,13 +45,11 @@ work:
       ⏰ 오전예배: 주일 오전 10시 ~ 12시 30분  
       ⏰ 오후예배: 주일 오후 3시 ~ 4시  
       하나님께 영광 돌리는 예배로 모든 성도가 함께합니다.
-
   - position: "화요모임"
     company_name: "전주 자유개혁교회"
     summary: |
       ⏰ 화요일 저녁 8시  
       말씀과 찬양, 교제의 시간으로 함께 모입니다.
-
   - position: "수요모임"
     company_name: "전주 자유개혁교회"
     summary: |
@@ -96,22 +91,24 @@ tabs:
     name: "연락처"
     url: "#연락처"
 
-main:
-  - name: "홈"
-    url: "/"
-    weight: 10
-  - name: "교회소개"
-    url: "/about/"
-    weight: 20
-  - name: "예배안내"
-    url: "/worship/"
-    weight: 30
-  - name: "성찬 및 모임"
-    url: "/communion/"
-    weight: 40
-  - name: "오시는 길"
-    url: "/location/"
-    weight: 50
-  - name: "연락처"
-    url: "/contact/"
-    weight: 60
+menu:
+  main:
+    - name: "홈"
+      url: "/"
+      weight: 10
+    - name: "교회소개"
+      url: "/about/"
+      weight: 20
+    - name: "예배안내"
+      url: "/worship/"
+      weight: 30
+    - name: "성찬 및 모임"
+      url: "/communion/"
+      weight: 40
+    - name: "오시는 길"
+      url: "/location/"
+      weight: 50
+    - name: "연락처"
+      url: "/contact/"
+      weight: 60
+---
