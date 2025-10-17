@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: 하나님과 이웃 사랑
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: 자유개혁교회
     url: https://ai.meta.com/
 
 # Social network links
@@ -81,14 +81,13 @@ education:
       Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: 교인 
+    company_name: 자유개혁교회
     company_url: 'https://ai.meta.com/'
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    summary: 예배와 성경
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
@@ -166,4 +165,5 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+자유개혁교회는 전주에 위치
+안녕하십니까
