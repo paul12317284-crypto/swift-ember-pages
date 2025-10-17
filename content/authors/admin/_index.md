@@ -3,14 +3,12 @@ title: "전주 자유개혁교회 (Free Reformed Church in Jeonju)"
 first_name: "자유개혁교회"
 last_name: "전주자유개혁교회"
 pronouns: "All Church Family"
+superuser: true
+highlight_name: true
+role: "하나님을 예배하며 말씀 위에 세워지는 교회"
 
 status:
   icon: "📖"
-
-superuser: true
-highlight_name: true
-
-role: "하나님을 예배하며 말씀 위에 세워지는 교회"
 
 organizations:
   - name: "전주 자유개혁교회"
@@ -141,7 +139,7 @@ tabs:
 {{< files source="content/files" allow_download="true" >}}
 
 📌 예시로 이런 식으로 파일을 둘 수 있습니다:
-- /content/files/2025-10-19-주보.pdf
+- /content/files/2025-10-19-주보.pdf  
 - /content/files/설교노트_요한복음3장16절.pdf
 
 ---
@@ -166,4 +164,5 @@ tabs:
 
 ---
 
-> “너희는 세상의 빛이라 산 위에
+> “너희는 세상의 빛이라 산 위에 있는 동네가 숨겨지지 못할 것이요.”  
+> — 마태복음 5:14
