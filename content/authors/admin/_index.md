@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: 자유학교
-last_name: Johnson자유학교
+last_name: 자유학교
 
 # Pronouns (optional)
 pronouns: he/him
