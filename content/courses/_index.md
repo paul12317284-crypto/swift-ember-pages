@@ -1,28 +1,44 @@
 ---
-title: Courses
-summary: My courses
-type: landing
-
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: collection
-    id: courses
-    content:
-      title: Courses
-      filters:
-        tag: Course
-        kinds:
-          - section
-    design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+title: "파일 저장소"
+summary: "교회 관련 문서와 자료를 업로드하고 공유하는 공간입니다."
+description: "전주 자유개혁교회의 파일 저장소입니다. 주보, 찬양 악보, 예배 순서지 등 교회 자료를 함께 나눕니다."
+date: 2025-10-18
+type: "courses"
+layout: "archive"
+featured: false
 ---
+
+## 📁 파일 저장소 안내
+
+이곳은 **전주 자유개혁교회**의 파일 자료실입니다.  
+교회 관련 문서와 예배 자료를 보관하고, 성도님들이 함께 열람하실 수 있습니다.
+
+---
+
+### 🔹 파일 업로드 방법
+현재는 관리자(교회 담당자)가 파일을 직접 업로드하도록 설정되어 있습니다.  
+다음 중 한 가지 방법으로 업로드할 수 있습니다:
+
+1. **GitHub를 통한 업로드**  
+   👉 `content/courses/` 폴더 안에 새 Markdown 파일(`.md`)과 자료 파일(`.pdf`, `.docx`, `.pptx` 등)을 추가하세요.  
+
+2. **Google Drive 링크 공유**  
+   👉 아래에 Drive 공유 링크를 추가하시면 자동으로 표시됩니다.
+
+---
+
+### 📚 예시 파일 목록
+
+| 제목 | 설명 | 파일 |
+|------|------|------|
+| 2025년 10월 3주차 주보 | 주일예배 주보입니다. | [다운로드](../files/2025-10-3-bulletin.pdf) |
+| 2025년 찬양 악보집 | 찬양팀용 악보 모음입니다. | [다운로드](../files/2025-hymnbook.pdf) |
+
+---
+
+### ☁️ Google Drive 공유 공간
+> [여기를 클릭하면 Google Drive에서 교회 자료를 볼 수 있습니다.](https://drive.google.com/drive/folders/예시링크)
+
+---
+
+🙏 필요하신 자료나 업로드 요청은 **교회 관리자에게 문의**해주세요.
