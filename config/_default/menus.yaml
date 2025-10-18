@@ -4,24 +4,41 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 예배 순서
+  - name: 홈페이지
     url: /
     weight: 10
+
   - name: 오시는 길 / 연락처
-    url: /#papers
+    url: "https://www.google.com/maps/place/전주+자유개혁교회"
     weight: 11
+
   - name: 모임
     url: /#talks
+    description: >
+      화요모임은 매주 화요일 저녁 8시에, 
+      수요모임은 매주 수요일 저녁 7시 30분에 있습니다.
     weight: 12
+
   - name: 성찬
     url: /#news
+    description: >
+      성찬은 분기마다 한 번씩 드리고, 
+      그 사이에는 장로님들이 각 가정을 심방하십니다.
     weight: 13
-  - name: 사진
+
+  - name: 예배 순서
     url: experience/
     weight: 20
+
   - name: 교회 정보
     url: projects/
+    description: >
+      전라북도 전주에 위치한 교회로, 
+      송동섭 목사님이 시무하고 계십니다.
     weight: 30
+
   - name: 파일 저장소
     url: courses/
+    description: >
+      교회 관련 문서와 자료를 업로드하고 공유할 수 있는 공간입니다.
     weight: 40
