@@ -39,7 +39,7 @@ featured: false
 ---
 
 ### ☁️ Google Drive 공유 공간
-> [여기를 클릭하면 Google Drive에서 교회 자료를 볼 수 있습니다.](https://drive.google.com/drive/folders/예시링크)
+> [여기를 클릭하면 Google Drive에서 교회 자료를 볼 수 있습니다.](https://drive.google.com/drive/folders/1aBcDeFgHiJkLmNOpQrStUvWxYz)
 
 ---
 
