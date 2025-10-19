@@ -4,7 +4,7 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 홈페이지
+  - name: 교회정보
     url: /
 
   - name: 오시는 길 / 연락처
@@ -25,7 +25,7 @@ main:
   - name: 예배 순서
     url: experience/
 
-  - name: 교회 정보
+  - name: 홈페이지
     url: projects/
     description: >
       전라북도 전주에 위치한 교회로, 
